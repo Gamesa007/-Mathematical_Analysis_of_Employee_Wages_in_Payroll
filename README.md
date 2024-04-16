@@ -31,4 +31,4 @@ This project is licensed under the MIT License.
 
 ## Deployed Page
 
-https://gamesa007.github.io/-Mathematical_Analysis_of_Employee_Wages_in_Payroll/
+https://Vation7.github.io/-Mathematical_Analysis_of_Employee_Wages_in_Payroll/
